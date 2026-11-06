@@ -1,6 +1,6 @@
 # LoopWeaver
 
-Official resources of "LoopWeaver: Weaving Feedback Loops into Hierarchical Generation under Constraints". Yifan Zhu, Guanting Chen, Bing Wei, Haoran Luo. NeurIPS 2026.
+Official resources of "LoopWeaver: Weaving Feedback Loops into Hierarchical Generation under Constraints". Yifan Zhu, Guanting Chen, Bing Wei, Haoran Luo. **NeurIPS 2026**.
 
 ## Overview
 
